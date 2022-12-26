@@ -3,7 +3,7 @@
 ### Full-Stack Software Developer
 
 - 🏫 Studying at Universidade Federal do Paraná 
-- 👩🏼‍💻 Currently working at AT Group as Full-Stack Software Developer
+- 👩🏼‍💻 Currently working at Tech4Humans as Back-end Software Developer
 
 
 <div align="center">
