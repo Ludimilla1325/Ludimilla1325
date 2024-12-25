@@ -2,7 +2,7 @@
 
 ### Full-Stack Software Developer
 
-- 🏫 Studying at Universidade Federal do Paraná 
+- 🏫 Graduated at Universidade Federal do Paraná
 - 👩🏼‍💻 Currently working at Tech4Humans as Back-end Software Developer
 
 
