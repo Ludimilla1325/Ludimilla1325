@@ -5,13 +5,6 @@
 - 🏫 Graduated at Universidade Federal do Paraná
 - 👩🏼‍💻 Currently working at Tech4Humans as Back-end Software Developer
 
-
-<div align="center">
-  <a href="https://github.com/Ludimilla1325">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ludimilla1325&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ludimilla1325&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 #### 🗂️ Stack:
 
 <div style="display: inline_block"><br>
